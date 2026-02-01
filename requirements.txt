@@ -1,0 +1,4 @@
+# Town Square uses only the Python standard library.
+# This file is provided for completeness; no external
+# packages are required to run the application.
+

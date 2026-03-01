@@ -1,5 +1,5 @@
 # TownSquare
-Official project for the 2025-2026 Fbla "Coding and Programming" event done alongside Suhas Rallabhandi
+Official project for the 2025-2026 FBLA "Coding and Programming" event done alongside Suhas Rallabhandi
 Alright let's elaborate:
 
 The program runs fully offline, uses a local SQLite database for persistence, and presents a modern, high‑contrast Tkinter interface that is easy for judges and everyday users to understand.
